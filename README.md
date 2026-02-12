@@ -1,4 +1,12 @@
+<!-- ANIMATED GRADIENT HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=YOUR_USERNAME&section=header&reversal=false&fontSize=70&animation=twinkling">
+</p>
 
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Code+is+poetry;Debugging+is+art;Coffee+is+fuel">
+</p>
 <!-- ANIMATED HEADER WITH WAVING HAND -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+suvanshshar123;Welcome+to+my+profile!&center=true&size=30&color=00FFFF">
@@ -27,7 +35,7 @@
 <!-- GITHUB STATS WITH CUSTOM THEME -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suvanshshar123&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=suvanshshar123&show_icons=true&theme=dracula&count_private=true&hide_border=true&bg_color=0D1117" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suvanshshar123&theme=radical&hide_border=true&background=0D1117" width="48%">
 </p>
 
@@ -40,18 +48,28 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- SKILLS SECTION WITH ICONS -->
-<h2 align="center">💻 Tech Stack</h2>
+
+<h2 align="center">🚀 Skills & Tools</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=black">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=black">
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,cs,php&perline=7" />
 </p>
 
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,tailwind,bootstrap&perline=8" />
+</p>
+
+<p align="center">
+  <!-- Backend & Database -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,mongodb,mysql,postgresql,firebase&perline=9" />
+</p>
+
+<p align="center">
+  <!-- DevOps & Tools -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,git,github,linux,vscode&perline=9" />
+</p>
 <!-- GRADIENT DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -95,6 +113,16 @@
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: {{ date }}
 <!--RECENT_ACTIVITY:last_update-->
+
+
+<!-- GRADIENT DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- GITHUB TROPHIES -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4">
+</p>
 
 <!-- FOOTER -->
 <div align="center">
