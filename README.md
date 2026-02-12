@@ -1,6 +1,6 @@
 <!-- ANIMATED GRADIENT HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=YOUR_USERNAME&section=header&reversal=false&fontSize=70&animation=twinkling">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=suvanshshar123&section=header&reversal=false&fontSize=70&animation=twinkling">
 </p>
 
 <!-- TYPING ANIMATION -->
